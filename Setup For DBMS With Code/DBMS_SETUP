@@ -1,0 +1,139 @@
+DBMS SETUP FOR MAC
+
+STEPS
+
+1 Setup of Xcode 
+ 	Download Xcode From App Store
+	Register Account By :
+	Click on Xcode on top of screen
+
+
+
+
+
+
+
+	Click on Preferences
+
+
+
+
+
+
+
+	
+	A window appears
+	Click on accounts
+	Tap ‘+’ icon and register using your Apple ID and 				Password.
+
+
+
+
+
+
+
+
+
+	Now Click on the blue button which has your project	name in top left hand side .
+
+
+
+
+
+
+	
+
+
+
+	Click on Signing and Capabilities.
+	Change your Team to your name using drop down menu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 		  
+
+
+2 Setup of Xcode Project
+	Download .cpp files from the below link.
+	https://github.com/sachinELEVEN/Setup-For-DBMS-With-Code.git
+	-Github userName ‘sachinELEVEN’
+	
+	Import these .cpp files in your Xcode Project.
+
+
+3 Importing curl Library for Networking of Xcode 
+	Click on the blue button which has your project name in 			top left hand side .
+	Click on add Frameworks and Library.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Search for ‘curl’.
+	Double click on ‘curl.4.tbd’.
+	You can see this library gets added to your project.
+
+
+NOW YOUR PROGRAM SHOULD SUCCESSFULLY COMPILE.
+TO COMPILE PRESS ‘CMD+R’
+	
+	
+	
+4  Setup of XAMPP 
+	Download XAMPP
+	Open XAMPP and Click Start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Click on Network and turn on localhost 8080
+	Click on volumes then on mount then click explore.
+	Search ‘htdocs’ in this folder. Open it.
+	Download the .php file from the below link.
+
+https://github.com/sachinELEVEN/Setup-For-DBMS-With-Code.git
+-Github userName ‘sachinELEVEN’
+
+
+ 	Paste this .php file directly in the htdocs folder.
